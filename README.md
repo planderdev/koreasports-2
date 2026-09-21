@@ -1,6 +1,6 @@
 > **직장인체육회 2 — 초록색 버전(비교용 사본)**
 > 2026-09-22에 `~/koreasports`(네이비·레드, GitHub `planderdev/koreasports`, https://koreasports-silk.vercel.app)의 작업 상태를 그대로 복사해 브랜드 색상만 초록(#176b45)·라임(#cce584)으로 바꾼 클라이언트 비교용 프로젝트입니다.
-> 기능·콘텐츠는 복사 시점의 원본과 같고, 색상 차이는 `assets/design-system/tokens.json`의 `--brand-*` 6개 토큰뿐입니다(변경 후 `python3 scripts/build-design-tokens.py`). 별도 리포 `planderdev/koreasports-2`(private)로 관리하며 원본 리포와는 연결되어 있지 않습니다. `main`에 푸시하면 https://koreasports-2.vercel.app 에 자동 배포됩니다.
+> 기능·콘텐츠는 복사 시점의 원본과 같고, 색상 차이는 `assets/design-system/tokens.json`의 `--brand-*` 6개 토큰뿐입니다(변경 후 `python3 scripts/build-design-tokens.py`). 별도 리포 `planderdev/koreasports-2`(public — Vercel Hobby는 비공개 리포의 타 작성자 커밋 배포를 차단하므로 A안과 같이 공개)로 관리하며 원본 리포와는 연결되어 있지 않습니다. `main`에 푸시하면 https://koreasports-2.vercel.app 에 자동 배포됩니다.
 
 # 대한직장인체육회 홈페이지
 
