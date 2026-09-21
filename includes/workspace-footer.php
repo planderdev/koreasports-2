@@ -1,0 +1,1 @@
+<footer class="workspace-footer"><span>KWSA · <?=$pageType === 'admin' ? '관리자' : '디자인 가이드 v3.1'?></span><?php if ($pageType !== 'admin'): ?><div><span id="workspace-role"></span><button id="workspace-logout" hidden>로그아웃</button></div><?php endif; ?></footer>

@@ -1,0 +1,2289 @@
+/* Generated. */
+export const tokenGroups = [
+  {
+    "id": "atomic",
+    "title": "Primitive · Montage official palette",
+    "tokens": [
+      {
+        "name": "--atomic-blue-10",
+        "value": "#001536",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-blue-20",
+        "value": "#002966",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-blue-30",
+        "value": "#003e9c",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-blue-40",
+        "value": "#0054d1",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-blue-45",
+        "value": "#005eeb",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-blue-50",
+        "value": "#06f",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-blue-55",
+        "value": "#1a75ff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-blue-60",
+        "value": "#3385ff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-blue-65",
+        "value": "#4f95ff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-blue-70",
+        "value": "#69a5ff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-blue-80",
+        "value": "#9ec5ff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-blue-90",
+        "value": "#c9defe",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-blue-95",
+        "value": "#eaf2fe",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-blue-99",
+        "value": "#f7fbff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-common-0",
+        "value": "#000",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-common-100",
+        "value": "#fff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-5",
+        "value": "#0f0f10",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-7",
+        "value": "#141415",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-10",
+        "value": "#171719",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-15",
+        "value": "#1b1c1e",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-17",
+        "value": "#212225",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-20",
+        "value": "#292a2d",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-22",
+        "value": "#2e2f33",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-23",
+        "value": "#333438",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-25",
+        "value": "#37383c",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-30",
+        "value": "#46474c",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-40",
+        "value": "#5a5c63",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-50",
+        "value": "#70737c",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-60",
+        "value": "#878a93",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-70",
+        "value": "#989ba2",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-80",
+        "value": "#aeb0b6",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-90",
+        "value": "#c2c4c8",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-95",
+        "value": "#dbdcdf",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-96",
+        "value": "#e1e2e4",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-97",
+        "value": "#eaebec",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-98",
+        "value": "#f4f4f5",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-coolNeutral-99",
+        "value": "#f7f7f8",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-cyan-10",
+        "value": "#00252b",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-cyan-20",
+        "value": "#004854",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-cyan-30",
+        "value": "#006f82",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-cyan-40",
+        "value": "#0098b2",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-cyan-50",
+        "value": "#00bdde",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-cyan-60",
+        "value": "#28d0ed",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-cyan-70",
+        "value": "#57dff7",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-cyan-80",
+        "value": "#8aedff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-cyan-90",
+        "value": "#b5f4ff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-cyan-95",
+        "value": "#defaff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-cyan-99",
+        "value": "#f7feff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-green-10",
+        "value": "#00240c",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-green-20",
+        "value": "#004517",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-green-30",
+        "value": "#006e25",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-green-40",
+        "value": "#009632",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-green-50",
+        "value": "#00bf40",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-green-60",
+        "value": "#1ed45a",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-green-70",
+        "value": "#49e57d",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-green-80",
+        "value": "#7df5a5",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-green-90",
+        "value": "#acfcc7",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-green-95",
+        "value": "#d9ffe6",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-green-99",
+        "value": "#f2fff6",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lightBlue-10",
+        "value": "#002130",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lightBlue-20",
+        "value": "#004261",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lightBlue-30",
+        "value": "#006796",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lightBlue-40",
+        "value": "#008dcf",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lightBlue-50",
+        "value": "#00aeff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lightBlue-60",
+        "value": "#3dc2ff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lightBlue-70",
+        "value": "#70d2ff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lightBlue-80",
+        "value": "#a1e1ff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lightBlue-90",
+        "value": "#c4ecfe",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lightBlue-95",
+        "value": "#e5f6fe",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lightBlue-99",
+        "value": "#f7fdff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lime-10",
+        "value": "#112900",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lime-20",
+        "value": "#225200",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lime-30",
+        "value": "#347d00",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lime-37",
+        "value": "#429e00",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lime-40",
+        "value": "#48ad00",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lime-50",
+        "value": "#58cf04",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lime-60",
+        "value": "#6be016",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lime-70",
+        "value": "#88f03e",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lime-80",
+        "value": "#aef779",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lime-90",
+        "value": "#ccfca9",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lime-95",
+        "value": "#e6ffd4",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-lime-99",
+        "value": "#f8fff2",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-neutral-5",
+        "value": "#0f0f0f",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-neutral-10",
+        "value": "#171717",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-neutral-15",
+        "value": "#1c1c1c",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-neutral-20",
+        "value": "#2a2a2a",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-neutral-22",
+        "value": "#303030",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-neutral-30",
+        "value": "#474747",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-neutral-40",
+        "value": "#5c5c5c",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-neutral-50",
+        "value": "#737373",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-neutral-60",
+        "value": "#8a8a8a",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-neutral-70",
+        "value": "#9b9b9b",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-neutral-80",
+        "value": "#b0b0b0",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-neutral-90",
+        "value": "#c4c4c4",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-neutral-95",
+        "value": "#dcdcdc",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-neutral-99",
+        "value": "#f7f7f7",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-orange-10",
+        "value": "#361e00",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-orange-20",
+        "value": "#663a00",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-orange-30",
+        "value": "#9c5800",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-orange-39",
+        "value": "#d17600",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-orange-40",
+        "value": "#d47800",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-orange-50",
+        "value": "#ff9200",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-orange-60",
+        "value": "#ffa938",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-orange-70",
+        "value": "#ffc06e",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-orange-80",
+        "value": "#ffd49c",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-orange-90",
+        "value": "#fee6c6",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-orange-95",
+        "value": "#fef4e6",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-orange-99",
+        "value": "#fffcf7",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-pink-10",
+        "value": "#3d0133",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-pink-20",
+        "value": "#730560",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-pink-30",
+        "value": "#a81690",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-pink-40",
+        "value": "#d331b8",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-pink-46",
+        "value": "#e846cd",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-pink-50",
+        "value": "#f553da",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-pink-60",
+        "value": "#fa73e3",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-pink-70",
+        "value": "#ff94ed",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-pink-80",
+        "value": "#ffb8f3",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-pink-90",
+        "value": "#fed3f7",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-pink-95",
+        "value": "#feecfb",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-pink-99",
+        "value": "#fffafe",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-purple-10",
+        "value": "#290247",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-purple-20",
+        "value": "#580a7d",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-purple-30",
+        "value": "#861cb8",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-purple-40",
+        "value": "#ad36e3",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-purple-50",
+        "value": "#cb59ff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-purple-60",
+        "value": "#d478ff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-purple-70",
+        "value": "#de96ff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-purple-80",
+        "value": "#e9baff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-purple-90",
+        "value": "#f2d6ff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-purple-95",
+        "value": "#f9edff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-purple-99",
+        "value": "#fefbff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-red-10",
+        "value": "#3b0101",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-red-20",
+        "value": "#730303",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-red-30",
+        "value": "#b00c0c",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-red-40",
+        "value": "#e52222",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-red-50",
+        "value": "#ff4242",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-red-60",
+        "value": "#ff6363",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-red-70",
+        "value": "#ff8c8c",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-red-80",
+        "value": "#ffb5b5",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-red-90",
+        "value": "#fed5d5",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-red-95",
+        "value": "#feecec",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-red-99",
+        "value": "snow",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-violet-10",
+        "value": "#11024d",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-violet-20",
+        "value": "#23098f",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-violet-30",
+        "value": "#3a16c9",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-violet-40",
+        "value": "#4f29e5",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-violet-45",
+        "value": "#5b37ed",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-violet-50",
+        "value": "#6541f2",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-violet-60",
+        "value": "#7d5ef7",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-violet-70",
+        "value": "#9e86fc",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-violet-80",
+        "value": "#c0b0ff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-violet-90",
+        "value": "#dbd3fe",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-violet-95",
+        "value": "#f0ecfe",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-violet-99",
+        "value": "#fbfaff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-redOrange-10",
+        "value": "#290f00",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-redOrange-20",
+        "value": "#592100",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-redOrange-30",
+        "value": "#913500",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-redOrange-40",
+        "value": "#c94a00",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-redOrange-48",
+        "value": "#f55a00",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-redOrange-50",
+        "value": "#ff5e00",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-redOrange-60",
+        "value": "#ff7b2e",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-redOrange-70",
+        "value": "#ff9b61",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-redOrange-80",
+        "value": "#ffbd96",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-redOrange-90",
+        "value": "#fed9c4",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-redOrange-95",
+        "value": "#feeee5",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--atomic-redOrange-99",
+        "value": "#fffaf7",
+        "source": "Montage official CSS"
+      }
+    ]
+  },
+  {
+    "id": "brand",
+    "title": "Primitive · Project brand",
+    "tokens": [
+      {
+        "name": "--brand-primary",
+        "value": "#176b45",
+        "description": "Fairway green — 초록 버전(직장인체육회 2) 비교 시안."
+      },
+      {
+        "name": "--brand-primary-strong",
+        "value": "#115638"
+      },
+      {
+        "name": "--brand-primary-heavy",
+        "value": "#0b402b"
+      },
+      {
+        "name": "--brand-accent",
+        "value": "#cce584",
+        "description": "Lime point colour for the green version. Pair with --brand-accent-on."
+      },
+      {
+        "name": "--brand-accent-on",
+        "value": "#0b402b",
+        "description": "Text and icons placed on --brand-accent (dark green on lime)."
+      },
+      {
+        "name": "--brand-accent-inverse",
+        "value": "#cce584",
+        "description": "Accent text on dark green surfaces (lime)."
+      },
+      {
+        "name": "--project-surface-light",
+        "value": "#f7f7f9",
+        "description": "Explicit project surface request; not a Montage value."
+      }
+    ]
+  },
+  {
+    "id": "semantic",
+    "title": "Semantic · Roles and project brand mapping",
+    "tokens": [
+      {
+        "name": "--semantic-static-white",
+        "value": "#fff",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--semantic-static-black",
+        "value": "#000",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--semantic-primary-normal",
+        "value": "var(--brand-primary)",
+        "source": "Project brand mapping",
+        "dark": "var(--atomic-green-80)"
+      },
+      {
+        "name": "--semantic-primary-strong",
+        "value": "var(--brand-primary-strong)",
+        "source": "Project brand mapping",
+        "dark": "var(--atomic-green-70)"
+      },
+      {
+        "name": "--semantic-primary-heavy",
+        "value": "var(--brand-primary-heavy)",
+        "source": "Project brand mapping",
+        "dark": "var(--atomic-green-60)"
+      },
+      {
+        "name": "--semantic-label-normal",
+        "value": "#171719",
+        "source": "Montage official CSS",
+        "dark": "#f7f7f8"
+      },
+      {
+        "name": "--semantic-label-strong",
+        "value": "#000",
+        "source": "Montage official CSS",
+        "dark": "#fff"
+      },
+      {
+        "name": "--semantic-label-neutral",
+        "value": "#2e2f33e0",
+        "source": "Montage official CSS",
+        "dark": "#c2c4c8e0"
+      },
+      {
+        "name": "--semantic-label-alternative",
+        "value": "#37383c9c",
+        "source": "Montage official CSS",
+        "dark": "#aeb0b69c"
+      },
+      {
+        "name": "--semantic-label-assistive",
+        "value": "#37383c47",
+        "source": "Montage official CSS",
+        "dark": "#aeb0b647"
+      },
+      {
+        "name": "--semantic-label-disable",
+        "value": "#37383c29",
+        "source": "Montage official CSS",
+        "dark": "#989ba229"
+      },
+      {
+        "name": "--semantic-background-normal-normal",
+        "value": "#fff",
+        "source": "Montage official CSS",
+        "dark": "#1b1c1e"
+      },
+      {
+        "name": "--semantic-background-normal-alternative",
+        "value": "var(--project-surface-light)",
+        "source": "Montage official CSS",
+        "dark": "#0f0f10"
+      },
+      {
+        "name": "--semantic-background-elevated-normal",
+        "value": "#fff",
+        "source": "Montage official CSS",
+        "dark": "#212225"
+      },
+      {
+        "name": "--semantic-background-elevated-alternative",
+        "value": "#f7f7f8",
+        "source": "Montage official CSS",
+        "dark": "#141415"
+      },
+      {
+        "name": "--semantic-background-transparent-normal",
+        "value": "#ffffff14",
+        "source": "Montage official CSS",
+        "dark": "#2122259c"
+      },
+      {
+        "name": "--semantic-background-transparent-alternative",
+        "value": "#ffffff47",
+        "source": "Montage official CSS",
+        "dark": "#2122259c"
+      },
+      {
+        "name": "--semantic-background-status-negative",
+        "value": "#ff424214",
+        "source": "Montage official CSS",
+        "dark": "#ff636314"
+      },
+      {
+        "name": "--semantic-background-status-cautionary",
+        "value": "#ff920014",
+        "source": "Montage official CSS",
+        "dark": "#ffa93814"
+      },
+      {
+        "name": "--semantic-background-status-positive",
+        "value": "#00bf4014",
+        "source": "Montage official CSS",
+        "dark": "#1ed45a14"
+      },
+      {
+        "name": "--semantic-interaction-inactive",
+        "value": "#989ba2",
+        "source": "Montage official CSS",
+        "dark": "#5a5c63"
+      },
+      {
+        "name": "--semantic-interaction-disable",
+        "value": "#f4f4f5",
+        "source": "Montage official CSS",
+        "dark": "#2e2f33"
+      },
+      {
+        "name": "--semantic-line-normal-normal",
+        "value": "#70737c38",
+        "source": "Montage official CSS",
+        "dark": "#70737c52"
+      },
+      {
+        "name": "--semantic-line-normal-neutral",
+        "value": "#70737c29",
+        "source": "Montage official CSS",
+        "dark": "#70737c47"
+      },
+      {
+        "name": "--semantic-line-normal-alternative",
+        "value": "#70737c14",
+        "source": "Montage official CSS",
+        "dark": "#70737c38"
+      },
+      {
+        "name": "--semantic-line-solid-normal",
+        "value": "#e1e2e4",
+        "source": "Montage official CSS",
+        "dark": "#37383c"
+      },
+      {
+        "name": "--semantic-line-solid-neutral",
+        "value": "#eaebec",
+        "source": "Montage official CSS",
+        "dark": "#333438"
+      },
+      {
+        "name": "--semantic-line-solid-alternative",
+        "value": "#f4f4f5",
+        "source": "Montage official CSS",
+        "dark": "#2e2f33"
+      },
+      {
+        "name": "--semantic-line-primary-normal",
+        "value": "#0066ff47",
+        "source": "Montage official CSS",
+        "dark": "#3385ff47"
+      },
+      {
+        "name": "--semantic-line-primary-strong",
+        "value": "#0066ff6e",
+        "source": "Montage official CSS",
+        "dark": "#3385ff6e"
+      },
+      {
+        "name": "--semantic-line-status-negative-normal",
+        "value": "#ff42426e",
+        "source": "Montage official CSS",
+        "dark": "#ff63636e"
+      },
+      {
+        "name": "--semantic-line-status-negative-strong",
+        "value": "#ff424285",
+        "source": "Montage official CSS",
+        "dark": "#ff636385"
+      },
+      {
+        "name": "--semantic-line-status-cautionary-normal",
+        "value": "#ff92006e",
+        "source": "Montage official CSS",
+        "dark": "#ffa9386e"
+      },
+      {
+        "name": "--semantic-line-status-positive-normal",
+        "value": "#00bf406e",
+        "source": "Montage official CSS",
+        "dark": "#1ed45a6e"
+      },
+      {
+        "name": "--semantic-status-positive",
+        "value": "#00bf40",
+        "source": "Montage official CSS",
+        "dark": "#1ed45a"
+      },
+      {
+        "name": "--semantic-status-cautionary",
+        "value": "#ff9200",
+        "source": "Montage official CSS",
+        "dark": "#ffa938"
+      },
+      {
+        "name": "--semantic-status-negative",
+        "value": "#ff4242",
+        "source": "Montage official CSS",
+        "dark": "#ff6363"
+      },
+      {
+        "name": "--semantic-accent-background-redOrange",
+        "value": "#ff5e00",
+        "source": "Montage official CSS",
+        "dark": "#ff7b2e"
+      },
+      {
+        "name": "--semantic-accent-background-lime",
+        "value": "#58cf04",
+        "source": "Montage official CSS",
+        "dark": "#6be016"
+      },
+      {
+        "name": "--semantic-accent-background-cyan",
+        "value": "#00bdde",
+        "source": "Montage official CSS",
+        "dark": "#28d0ed"
+      },
+      {
+        "name": "--semantic-accent-background-lightBlue",
+        "value": "#00aeff",
+        "source": "Montage official CSS",
+        "dark": "#3dc2ff"
+      },
+      {
+        "name": "--semantic-accent-background-violet",
+        "value": "#6541f2",
+        "source": "Montage official CSS",
+        "dark": "#7d5ef7"
+      },
+      {
+        "name": "--semantic-accent-background-purple",
+        "value": "#cb59ff",
+        "source": "Montage official CSS",
+        "dark": "#d478ff"
+      },
+      {
+        "name": "--semantic-accent-background-pink",
+        "value": "#f553da",
+        "source": "Montage official CSS",
+        "dark": "#fa73e3"
+      },
+      {
+        "name": "--semantic-accent-foreground-red",
+        "value": "#e52222",
+        "source": "Montage official CSS",
+        "dark": "#ff6363"
+      },
+      {
+        "name": "--semantic-accent-foreground-redOrange",
+        "value": "#f55a00",
+        "source": "Montage official CSS",
+        "dark": "#ff7b2e"
+      },
+      {
+        "name": "--semantic-accent-foreground-orange",
+        "value": "#d17600",
+        "source": "Montage official CSS",
+        "dark": "#ff9200"
+      },
+      {
+        "name": "--semantic-accent-foreground-lime",
+        "value": "#429e00",
+        "source": "Montage official CSS",
+        "dark": "#58cf04"
+      },
+      {
+        "name": "--semantic-accent-foreground-green",
+        "value": "#009632",
+        "source": "Montage official CSS",
+        "dark": "#1ed45a"
+      },
+      {
+        "name": "--semantic-accent-foreground-cyan",
+        "value": "#0098b2",
+        "source": "Montage official CSS",
+        "dark": "#00bdde"
+      },
+      {
+        "name": "--semantic-accent-foreground-lightBlue",
+        "value": "#008dcf",
+        "source": "Montage official CSS",
+        "dark": "#00aeff"
+      },
+      {
+        "name": "--semantic-accent-foreground-blue",
+        "value": "#005eeb",
+        "source": "Montage official CSS",
+        "dark": "#4f95ff"
+      },
+      {
+        "name": "--semantic-accent-foreground-violet",
+        "value": "#5b37ed",
+        "source": "Montage official CSS",
+        "dark": "#9e86fc"
+      },
+      {
+        "name": "--semantic-accent-foreground-purple",
+        "value": "#ad36e3",
+        "source": "Montage official CSS",
+        "dark": "#d478ff"
+      },
+      {
+        "name": "--semantic-accent-foreground-pink",
+        "value": "#e846cd",
+        "source": "Montage official CSS",
+        "dark": "#fa73e3"
+      },
+      {
+        "name": "--semantic-inverse-primary",
+        "value": "#3385ff",
+        "source": "Montage official CSS",
+        "dark": "#06f"
+      },
+      {
+        "name": "--semantic-inverse-background",
+        "value": "#1b1c1e",
+        "source": "Montage official CSS",
+        "dark": "#fff"
+      },
+      {
+        "name": "--semantic-inverse-label",
+        "value": "#f7f7f8",
+        "source": "Montage official CSS",
+        "dark": "#171719"
+      },
+      {
+        "name": "--semantic-fill-normal",
+        "value": "#70737c14",
+        "source": "Montage official CSS",
+        "dark": "#70737c38"
+      },
+      {
+        "name": "--semantic-fill-strong",
+        "value": "#70737c29",
+        "source": "Montage official CSS",
+        "dark": "#70737c47"
+      },
+      {
+        "name": "--semantic-fill-alternative",
+        "value": "#70737c0d",
+        "source": "Montage official CSS",
+        "dark": "#70737c1f"
+      },
+      {
+        "name": "--semantic-material-dimmer",
+        "value": "#17171985",
+        "source": "Montage official CSS",
+        "dark": "#171719bd"
+      },
+      {
+        "name": "--semantic-brand-subtle",
+        "value": "color-mix(in srgb, var(--semantic-primary-normal) 8%, var(--semantic-background-normal-normal))"
+      },
+      {
+        "name": "--semantic-brand-accent",
+        "value": "var(--brand-accent)"
+      },
+      {
+        "name": "--semantic-brand-accent-on",
+        "value": "var(--brand-accent-on)"
+      },
+      {
+        "name": "--semantic-brand-accent-inverse",
+        "value": "var(--brand-accent-inverse)"
+      },
+      {
+        "name": "--semantic-status-info",
+        "value": "var(--semantic-accent-foreground-blue)"
+      },
+      {
+        "name": "--semantic-surface-lime",
+        "value": "color-mix(in srgb, var(--semantic-accent-foreground-lime) 8%, var(--semantic-background-normal-normal))",
+        "description": "Project subtle status surface, derived from official foreground."
+      },
+      {
+        "name": "--semantic-surface-cyan",
+        "value": "color-mix(in srgb, var(--semantic-accent-foreground-cyan) 8%, var(--semantic-background-normal-normal))",
+        "description": "Project subtle status surface, derived from official foreground."
+      },
+      {
+        "name": "--semantic-surface-blue",
+        "value": "color-mix(in srgb, var(--semantic-accent-foreground-blue) 8%, var(--semantic-background-normal-normal))",
+        "description": "Project subtle status surface, derived from official foreground."
+      },
+      {
+        "name": "--semantic-surface-violet",
+        "value": "color-mix(in srgb, var(--semantic-accent-foreground-violet) 8%, var(--semantic-background-normal-normal))",
+        "description": "Project subtle status surface, derived from official foreground."
+      },
+      {
+        "name": "--semantic-surface-pink",
+        "value": "color-mix(in srgb, var(--semantic-accent-foreground-pink) 8%, var(--semantic-background-normal-normal))",
+        "description": "Project subtle status surface, derived from official foreground."
+      }
+    ]
+  },
+  {
+    "id": "typography",
+    "title": "Primitive · Project typography (minimum 13px)",
+    "tokens": [
+      {
+        "name": "--font-family",
+        "value": "Pretendard, 'Noto Sans KR', system-ui, sans-serif",
+        "description": ""
+      },
+      {
+        "name": "--font-weight-regular",
+        "value": "400",
+        "description": ""
+      },
+      {
+        "name": "--font-weight-medium",
+        "value": "500",
+        "description": ""
+      },
+      {
+        "name": "--font-weight-semibold",
+        "value": "600",
+        "description": ""
+      },
+      {
+        "name": "--font-weight-bold",
+        "value": "700",
+        "description": ""
+      },
+      {
+        "name": "--type-display-1-size",
+        "value": "58px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "56px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-display-1-line",
+        "value": "76px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "72px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-display-1-tracking",
+        "value": "-0.0319em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "-0.0319em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-display-2-size",
+        "value": "42px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "40px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-display-2-line",
+        "value": "56px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "52px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-display-2-tracking",
+        "value": "-0.02866em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "-0.0282em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-display-3-size",
+        "value": "38px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "36px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-display-3-line",
+        "value": "52px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "48px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-display-3-tracking",
+        "value": "-0.0276em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "-0.027em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-title-1-size",
+        "value": "34px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "32px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-title-1-line",
+        "value": "48px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "44px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-title-1-tracking",
+        "value": "-0.02615em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "-0.0253em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-title-2-size",
+        "value": "30px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "28px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-title-2-line",
+        "value": "42px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "38px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-title-2-tracking",
+        "value": "-0.02445em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "-0.0236em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-title-3-size",
+        "value": "26px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "24px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-title-3-line",
+        "value": "36px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "32px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-title-3-tracking",
+        "value": "-0.0233em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "-0.023em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-heading-1-size",
+        "value": "24px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "22px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-heading-1-line",
+        "value": "34px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "30px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-heading-1-tracking",
+        "value": "-0.023em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "-0.0194em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-heading-2-size",
+        "value": "22px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "20px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-heading-2-line",
+        "value": "32px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "28px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-heading-2-tracking",
+        "value": "-0.0194em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "-0.012em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-headline-1-size",
+        "value": "20px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "18px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-headline-1-line",
+        "value": "30px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "26px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-headline-1-tracking",
+        "value": "-0.012em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "-0.002em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-headline-2-size",
+        "value": "19px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "17px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-headline-2-line",
+        "value": "30px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "26px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-headline-2-tracking",
+        "value": "-0.007em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "0em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-body-1-size",
+        "value": "18px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "16px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-body-1-line",
+        "value": "28px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "24px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-body-1-tracking",
+        "value": "-0.002em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "0.0057em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-body-1-reading-size",
+        "value": "18px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "16px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-body-1-reading-line",
+        "value": "30px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "26px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-body-1-reading-tracking",
+        "value": "-0.002em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "0.0057em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-body-2-size",
+        "value": "17px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "15px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-body-2-line",
+        "value": "26px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "22px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-body-2-tracking",
+        "value": "0em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "0.0096em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-body-2-reading-size",
+        "value": "17px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "15px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-body-2-reading-line",
+        "value": "28px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "24px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-body-2-reading-tracking",
+        "value": "0em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "0.0096em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-label-1-size",
+        "value": "16px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "14px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-label-1-line",
+        "value": "24px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "20px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-label-1-tracking",
+        "value": "0.0057em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "0.0145em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-label-1-reading-size",
+        "value": "16px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "14px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-label-1-reading-line",
+        "value": "26px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "22px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-label-1-reading-tracking",
+        "value": "0.0057em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "0.0145em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-label-2-size",
+        "value": "15px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "13px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-label-2-line",
+        "value": "22px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "18px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-label-2-tracking",
+        "value": "0.0096em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "0.0194em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-caption-1-size",
+        "value": "14px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "12px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-caption-1-line",
+        "value": "20px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "16px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-caption-1-tracking",
+        "value": "0.0145em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "0.0252em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-caption-2-size",
+        "value": "13px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "11px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-caption-2-line",
+        "value": "18px",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "14px",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--type-caption-2-tracking",
+        "value": "0.0194em",
+        "description": "Project scale: size +2px, line +4px; tracking interpolated at the new size from the reference scale.",
+        "referenceValue": "0.0311em",
+        "source": "Project minimum 13px scale; adapted from Montage"
+      },
+      {
+        "name": "--font-family-mono",
+        "value": "Consolas, monospace",
+        "description": "Project code specimens."
+      }
+    ]
+  },
+  {
+    "id": "geometry",
+    "title": "Primitive · Project spacing / radius / border",
+    "tokens": [
+      {
+        "name": "--space-0",
+        "value": "0px",
+        "description": ""
+      },
+      {
+        "name": "--space-2",
+        "value": "2px",
+        "description": ""
+      },
+      {
+        "name": "--space-4",
+        "value": "4px",
+        "description": ""
+      },
+      {
+        "name": "--space-6",
+        "value": "6px",
+        "description": ""
+      },
+      {
+        "name": "--space-8",
+        "value": "8px",
+        "description": ""
+      },
+      {
+        "name": "--space-10",
+        "value": "10px",
+        "description": ""
+      },
+      {
+        "name": "--space-12",
+        "value": "12px",
+        "description": ""
+      },
+      {
+        "name": "--space-16",
+        "value": "16px",
+        "description": ""
+      },
+      {
+        "name": "--space-20",
+        "value": "20px",
+        "description": ""
+      },
+      {
+        "name": "--space-24",
+        "value": "24px",
+        "description": ""
+      },
+      {
+        "name": "--space-28",
+        "value": "28px",
+        "description": ""
+      },
+      {
+        "name": "--space-32",
+        "value": "32px",
+        "description": ""
+      },
+      {
+        "name": "--space-40",
+        "value": "40px",
+        "description": ""
+      },
+      {
+        "name": "--space-48",
+        "value": "48px",
+        "description": ""
+      },
+      {
+        "name": "--space-56",
+        "value": "56px",
+        "description": ""
+      },
+      {
+        "name": "--space-64",
+        "value": "64px",
+        "description": ""
+      },
+      {
+        "name": "--space-80",
+        "value": "80px",
+        "description": ""
+      },
+      {
+        "name": "--space-96",
+        "value": "96px",
+        "description": ""
+      },
+      {
+        "name": "--space-120",
+        "value": "120px",
+        "description": ""
+      },
+      {
+        "name": "--radius-0",
+        "value": "0px",
+        "description": ""
+      },
+      {
+        "name": "--radius-2",
+        "value": "2px",
+        "description": ""
+      },
+      {
+        "name": "--radius-4",
+        "value": "4px",
+        "description": ""
+      },
+      {
+        "name": "--radius-6",
+        "value": "6px",
+        "description": ""
+      },
+      {
+        "name": "--radius-8",
+        "value": "8px",
+        "description": ""
+      },
+      {
+        "name": "--radius-12",
+        "value": "12px",
+        "description": ""
+      },
+      {
+        "name": "--radius-16",
+        "value": "16px",
+        "description": ""
+      },
+      {
+        "name": "--radius-20",
+        "value": "20px",
+        "description": ""
+      },
+      {
+        "name": "--radius-24",
+        "value": "24px",
+        "description": ""
+      },
+      {
+        "name": "--radius-32",
+        "value": "32px",
+        "description": ""
+      },
+      {
+        "name": "--radius-full",
+        "value": "9999px",
+        "description": ""
+      },
+      {
+        "name": "--border-thin",
+        "value": "1px",
+        "description": ""
+      },
+      {
+        "name": "--border-strong",
+        "value": "2px",
+        "description": ""
+      },
+      {
+        "name": "--border-focus",
+        "value": "3px",
+        "description": ""
+      },
+      {
+        "name": "--radius-10",
+        "value": "10px",
+        "source": "Montage medium Button"
+      }
+    ]
+  },
+  {
+    "id": "elevation",
+    "title": "Semantic · Montage elevation",
+    "tokens": [
+      {
+        "name": "--semantic-elevation-shadow-normal-xsmall",
+        "value": "0px 1px 2px -1px #1717171a",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--semantic-elevation-shadow-normal-small",
+        "value": "0px 2px 4px -2px #1717170f, 0px 4px 6px -1px #1717170f",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--semantic-elevation-shadow-normal-medium",
+        "value": "0px 4px 6px -2px #17171712, 0px 10px 15px -3px #17171712",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--semantic-elevation-shadow-normal-large",
+        "value": "0px 6px 10px -4px #17171714, 0px 16px 24px -6px #17171714",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--semantic-elevation-shadow-normal-xlarge",
+        "value": "0px 10px 15px -5px #1717171a, 0px 24px 38px -10px #1717171f",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--semantic-elevation-shadow-spread-small",
+        "value": "0px 0px 60px 0px #1717171a",
+        "source": "Montage official CSS"
+      },
+      {
+        "name": "--semantic-elevation-shadow-spread-medium",
+        "value": "0px 15px 75px 0px #17171729",
+        "source": "Montage official CSS"
+      }
+    ]
+  },
+  {
+    "id": "motion",
+    "title": "Primitive · Project motion",
+    "tokens": [
+      {
+        "name": "--duration-instant",
+        "value": "0ms",
+        "description": ""
+      },
+      {
+        "name": "--duration-fast",
+        "value": "120ms",
+        "description": ""
+      },
+      {
+        "name": "--duration-normal",
+        "value": "200ms",
+        "description": ""
+      },
+      {
+        "name": "--duration-slow",
+        "value": "300ms",
+        "description": ""
+      },
+      {
+        "name": "--duration-enter",
+        "value": "240ms",
+        "description": ""
+      },
+      {
+        "name": "--duration-exit",
+        "value": "160ms",
+        "description": ""
+      },
+      {
+        "name": "--easing-standard",
+        "value": "cubic-bezier(.2,0,0,1)",
+        "description": ""
+      },
+      {
+        "name": "--easing-enter",
+        "value": "cubic-bezier(0,0,.2,1)",
+        "description": ""
+      },
+      {
+        "name": "--easing-exit",
+        "value": "cubic-bezier(.4,0,1,1)",
+        "description": ""
+      },
+      {
+        "name": "--opacity-hover",
+        "value": ".04",
+        "description": ""
+      },
+      {
+        "name": "--opacity-pressed",
+        "value": ".08",
+        "description": ""
+      },
+      {
+        "name": "--opacity-disabled",
+        "value": ".4",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "layout",
+    "title": "Layout · Project containers and stacking",
+    "tokens": [
+      {
+        "name": "--container",
+        "value": "1420px",
+        "description": "Reference-aligned main content maximum width."
+      },
+      {
+        "name": "--layout-sidebar",
+        "value": "248px",
+        "description": ""
+      },
+      {
+        "name": "--layout-toc",
+        "value": "184px",
+        "description": ""
+      },
+      {
+        "name": "--layout-gutter-mobile",
+        "value": "20px",
+        "description": ""
+      },
+      {
+        "name": "--layout-gutter-desktop",
+        "value": "48px",
+        "description": ""
+      },
+      {
+        "name": "--icon-xs",
+        "value": "16px",
+        "description": ""
+      },
+      {
+        "name": "--icon-sm",
+        "value": "20px",
+        "description": ""
+      },
+      {
+        "name": "--icon-md",
+        "value": "24px",
+        "description": ""
+      },
+      {
+        "name": "--icon-lg",
+        "value": "32px",
+        "description": ""
+      },
+      {
+        "name": "--icon-xl",
+        "value": "40px",
+        "description": ""
+      },
+      {
+        "name": "--container-wide",
+        "value": "1620px"
+      },
+      {
+        "name": "--layout-header-desktop",
+        "value": "169px"
+      },
+      {
+        "name": "--layout-header-mobile",
+        "value": "78px"
+      },
+      {
+        "name": "--z-base",
+        "value": "0",
+        "description": ""
+      },
+      {
+        "name": "--z-sticky",
+        "value": "100",
+        "description": ""
+      },
+      {
+        "name": "--z-dropdown",
+        "value": "200",
+        "description": ""
+      },
+      {
+        "name": "--z-overlay",
+        "value": "300",
+        "description": ""
+      },
+      {
+        "name": "--z-modal",
+        "value": "400",
+        "description": ""
+      },
+      {
+        "name": "--z-toast",
+        "value": "500",
+        "description": ""
+      },
+      {
+        "name": "--z-tooltip",
+        "value": "600",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "component",
+    "title": "Component · Shared control contracts",
+    "tokens": [
+      {
+        "name": "--control-height-sm",
+        "value": "32px",
+        "description": ""
+      },
+      {
+        "name": "--control-height-md",
+        "value": "40px",
+        "description": ""
+      },
+      {
+        "name": "--control-height-lg",
+        "value": "48px",
+        "description": ""
+      },
+      {
+        "name": "--control-radius",
+        "value": "var(--radius-10)",
+        "description": ""
+      },
+      {
+        "name": "--control-padding-x",
+        "value": "var(--space-20)",
+        "description": ""
+      },
+      {
+        "name": "--control-gap",
+        "value": "var(--space-8)",
+        "description": ""
+      },
+      {
+        "name": "--control-font",
+        "value": "var(--type-body-2-size)",
+        "description": ""
+      },
+      {
+        "name": "--control-bg",
+        "value": "var(--semantic-primary-normal)",
+        "description": ""
+      },
+      {
+        "name": "--control-fg",
+        "value": "var(--semantic-static-white)",
+        "description": "",
+        "dark": "var(--semantic-static-black)"
+      },
+      {
+        "name": "--control-hover",
+        "value": "var(--semantic-primary-strong)",
+        "description": ""
+      },
+      {
+        "name": "--control-border",
+        "value": "var(--semantic-line-solid-normal)",
+        "description": ""
+      },
+      {
+        "name": "--input-bg",
+        "value": "var(--semantic-background-normal-normal)",
+        "description": ""
+      },
+      {
+        "name": "--input-fg",
+        "value": "var(--semantic-label-normal)",
+        "description": ""
+      },
+      {
+        "name": "--input-placeholder",
+        "value": "var(--semantic-label-alternative)",
+        "description": ""
+      },
+      {
+        "name": "--focus-ring",
+        "value": "var(--semantic-primary-normal)",
+        "description": ""
+      },
+      {
+        "name": "--card-radius",
+        "value": "var(--radius-12)",
+        "description": ""
+      },
+      {
+        "name": "--card-padding",
+        "value": "var(--space-24)",
+        "description": ""
+      },
+      {
+        "name": "--card-bg",
+        "value": "var(--semantic-background-elevated-normal)",
+        "description": ""
+      },
+      {
+        "name": "--dialog-radius",
+        "value": "var(--radius-16)",
+        "description": ""
+      },
+      {
+        "name": "--dialog-padding",
+        "value": "var(--space-24)",
+        "description": ""
+      },
+      {
+        "name": "--dialog-width",
+        "value": "480px",
+        "description": ""
+      },
+      {
+        "name": "--tooltip-bg",
+        "value": "var(--semantic-inverse-background)",
+        "description": ""
+      },
+      {
+        "name": "--tooltip-fg",
+        "value": "var(--semantic-inverse-label)",
+        "description": ""
+      },
+      {
+        "name": "--badge-radius",
+        "value": "var(--radius-4)",
+        "description": ""
+      },
+      {
+        "name": "--badge-padding-x",
+        "value": "var(--space-8)",
+        "description": ""
+      },
+      {
+        "name": "--switch-width",
+        "value": "44px",
+        "description": ""
+      },
+      {
+        "name": "--switch-height",
+        "value": "26px",
+        "description": ""
+      },
+      {
+        "name": "--avatar-sm",
+        "value": "32px",
+        "description": ""
+      },
+      {
+        "name": "--avatar-md",
+        "value": "40px",
+        "description": ""
+      },
+      {
+        "name": "--avatar-lg",
+        "value": "56px",
+        "description": ""
+      },
+      {
+        "name": "--input-height",
+        "value": "48px"
+      },
+      {
+        "name": "--input-radius",
+        "value": "var(--radius-12)"
+      },
+      {
+        "name": "--input-padding-x",
+        "value": "var(--space-16)"
+      }
+    ]
+  }
+];

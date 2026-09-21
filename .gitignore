@@ -1,0 +1,11 @@
+php-server*.log
+node_modules/
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local working snapshots and image previews
+/tmp/
+
+# Vercel CLI project link
+.vercel
